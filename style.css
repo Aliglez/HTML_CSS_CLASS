@@ -1,0 +1,15 @@
+h1, h2  {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3 {
+    font-style:normal;
+    font-size: small;
+    font-weight: 10;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sangria {
+    margin-left: 20px;
+    text-align: left;
+}
