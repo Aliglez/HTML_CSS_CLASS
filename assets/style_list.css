@@ -1,0 +1,18 @@
+.column {
+    column-count:2;
+    justify-content: center;
+    column-gap: 5;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+body{
+    justify-content: center;
+
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14;
+    text-justify: center;
+    margin-top: 2%;
+}
